@@ -1,3 +1,4 @@
+# author : Fransiskus Agapa
 from animal import Dog  # call the class
 
 print("\n== Dog Database ==")
